@@ -1,0 +1,14 @@
+F:\C#\CurrencyORTemperatureConverter\bin\Debug\net8.0-windows\CurrencyORTemperatureConverter.exe
+F:\C#\CurrencyORTemperatureConverter\bin\Debug\net8.0-windows\CurrencyORTemperatureConverter.deps.json
+F:\C#\CurrencyORTemperatureConverter\bin\Debug\net8.0-windows\CurrencyORTemperatureConverter.runtimeconfig.json
+F:\C#\CurrencyORTemperatureConverter\bin\Debug\net8.0-windows\CurrencyORTemperatureConverter.dll
+F:\C#\CurrencyORTemperatureConverter\bin\Debug\net8.0-windows\CurrencyORTemperatureConverter.pdb
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\CurrencyORTemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\CurrencyORTemperatureConverter.AssemblyInfoInputs.cache
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\CurrencyORTemperatureConverter.AssemblyInfo.cs
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\CurrencyORTemperatureConverter.csproj.CoreCompileInputs.cache
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\CurrencyORTemperatureConverter.dll
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\refint\CurrencyORTemperatureConverter.dll
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\CurrencyORTemperatureConverter.pdb
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\CurrencyORTemperatureConverter.genruntimeconfig.cache
+F:\C#\CurrencyORTemperatureConverter\obj\Debug\net8.0-windows\ref\CurrencyORTemperatureConverter.dll
